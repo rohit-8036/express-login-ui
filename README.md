@@ -7,5 +7,3 @@ Simple demo application implementing following:
 2. A static HTML page index.html with a login form, and a login button that will send a POST request to /login using JS fetch api and displays the status into a div with id "status".
 
 3. Demo of Dockerfile.
-
-4.demo
